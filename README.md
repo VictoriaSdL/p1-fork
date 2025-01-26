@@ -1,6 +1,8 @@
 # **Práctica 1: Introducción a Git y GitHub**
 
-Este proyecto corresponde a la Práctica 1 de PAT, donde he aprendido diferentes comandos de git y me he intalado entornos de desarrollo como IntelliJ IDEA y Visual Studio. Esta práctica esta explicada más precisamente en el pdf adjuntado. Aquí daremos una visión general
+Este proyecto corresponde a la Práctica 1 de PAT, donde he aprendido diferentes comandos de git y me he intalado entornos de desarrollo como IntelliJ IDEA y Visual Studio. Esta práctica esta explicada más precisamente en el pdf adjuntado. 
+[Ver el PDF de la práctica](VictoriaSánchezdeLeón.pdf)
+Aquí daremos una visión general
 
 ---
 
