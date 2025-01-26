@@ -10,11 +10,14 @@ Este proyecto corresponde a la Práctica 1 de PAT, donde he aprendido diferentes
 2. **Apache Maven**: Instalado directamente desde PowerShell.
 3. **IntelliJ IDEA**: Ya instalado de prácticas previas.
 4. **Visual Studio**: Configurado para otros proyectos.
-![alt text](image-1.png)
+
 ![alt text](image-2.png)
 ![alt text](image-3.png)
-![alt text](image-4.png)
----
+<p align="center">
+  <img src="image-4.png" alt="imagen 4" width="300"/>
+  <img src="image-1.png" alt="çimagen 1" width="300"/>
+</p>
+
 
 ## **Desarrollo de la práctica**
 
