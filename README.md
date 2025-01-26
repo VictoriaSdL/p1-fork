@@ -14,8 +14,8 @@ Este proyecto corresponde a la Práctica 1 de PAT, donde he aprendido diferentes
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 <p align="center">
-  <img src="image-4.png" alt="imagen 4" width="300"/>
-  <img src="image-1.png" alt="çimagen 1" width="300"/>
+  <img src="image-4.png" alt="imagen 4" width="100"/>
+  <img src="image-1.png" alt="çimagen 1" width="100"/>
 </p>
 
 
