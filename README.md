@@ -36,23 +36,20 @@ Una vez hecho el fork, cloné el repositorio forkeado en Codespaces.
 
 #### **Comandos a probar:**
 
-
-# Comandos de Git explicados
-
-## `git status`
+##### `git status`
 Este comando muestra el estado actual del repositorio. Te permite ver qué archivos han cambiado, cuáles están listos para ser confirmados y cuáles no.
 
-## `git add .`
+##### `git add .`
 Sirve para agregar todos los archivos modificados al área de preparación. Esto prepara los cambios para el próximo commit.
 
-## `git commit -m "TU MENSAJE"`
+##### `git commit -m "TU MENSAJE"`
 Con este comando confirmas los cambios que agregaste al área de preparación. El mensaje entre comillas describe los cambios realizados.
 
-## `git push`
+##### `git push`
 Este comando sube los commits confirmados en tu repositorio local al repositorio remoto.
 
-## `git checkout -b feature/1`
+##### `git checkout -b feature/1`
 Crea una nueva rama llamada `feature/1` y cambia automáticamente a esa rama. Esto se utiliza para trabajar en cambios específicos sin afectar la rama principal.
 
-## `git checkout main`
+##### `git checkout main`
 Te permite cambiar a la rama principal del proyecto, generalmente llamada `main`. Es útil para regresar a la versión estable del proyecto.
